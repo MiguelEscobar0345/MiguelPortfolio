@@ -1,6 +1,6 @@
 # Miguel E. Escobar P. — Portfolio
 
-**mescobar.dev** · Web UI Developer · Medellín, Colombia
+**miguelescobar.dev** · Web UI Developer · Medellín, Colombia
 
 A production-grade personal portfolio built with React 18, Vite, Framer Motion, and Tailwind CSS. Not a template. Every animation, transition, layout decision, and line of code written from scratch with intentionality.
 
@@ -8,7 +8,7 @@ A production-grade personal portfolio built with React 18, Vite, Framer Motion, 
 
 ## Live
 
-🌐 Coming soon to: [mescobar.dev](https://mescobar.dev)
+🌐 Coming soon to: [miguelescobar.dev](https://miguelescobar.dev)
 
 ---
 
